@@ -13,20 +13,20 @@ Hi There ! <br>
  <h3 align="center"> <a href="https://www.shu6h4m.in"> Success Boosted </a>  | <a href="https://www.youtube.com/c/TechHorse9/about"> Tech Horse</a> as Blogger & Content Manager </h3>   <br />   
         
    <p align="center"> 
-<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/wordpress.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Java" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/java.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="HTML5" width="26px" src="https://github.com/su6h4m/s/blob/master/images/skills/html.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="CSS3" width="26px" src="https://github.com/su6h4m/s/blob/master/images/skills/css.png" />&nbsp;&nbsp;
-<img align="center" alt="JavaScript" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/javascript.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="C" width="26px" src="https://github.com/su6h4m/s/blob/master/images/skills/c.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Python" width="26px" src="https://github.com/su6h4m/s/blob/master/images/skills/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Visual Studio Code" width="26px" src="https://github.com/su6h4m/s/blob/master/images/skills/vscode.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Photoshop" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/photoshop.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/illustrator.png" />&nbsp;&nbsp;
-<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/firebase.png"/>&nbsp;&nbsp;
-<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/lightroom.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/node.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/cplusplus.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/main/images/skills/wordpress.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Java" width="26px" src="https://github.com/shu6h4m/s/blob/main/images/skills/java.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="HTML5" width="26px" src="https://github.com/su6h4m/s/blob/main/images/skills/html.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="CSS3" width="26px" src="https://github.com/su6h4m/s/blob/main/images/skills/css.png" />&nbsp;&nbsp;
+<img align="center" alt="JavaScript" width="26px" src="https://github.com/shu6h4m/s/blob/main/images/skills/javascript.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="C" width="26px" src="https://github.com/su6h4m/s/blob/main/images/skills/c.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Python" width="26px" src="https://github.com/su6h4m/s/blob/main/images/skills/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Visual Studio Code" width="26px" src="https://github.com/su6h4m/s/blob/main/images/skills/vscode.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Photoshop" width="26px" src="https://github.com/shu6h4m/s/blob/main/images/skills/photoshop.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/main/images/skills/illustrator.png" />&nbsp;&nbsp;
+<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/main/images/skills/firebase.png"/>&nbsp;&nbsp;
+<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/main/images/skills/lightroom.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/main/images/skills/node.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/main/images/skills/cplusplus.png" />&nbsp;&nbsp;&nbsp;&nbsp;
        </p>
 <br>
 <div>
