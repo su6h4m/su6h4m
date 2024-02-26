@@ -4,8 +4,7 @@
 
 <br>
 Hi There ! <br>     
-<br> I'm <a href="https://su6h4m.github.io/s/"> <b>SHUBHAM SHARMA </b> </a> <!--img width="18px" src="https://github.com/shu6h4m/Resources/blob/main/verified.svg"/></h2>  
-
+<br> I'm <a href="https://su6h4m.github.io/s/"> <b>SHUBHAM SHARMA </b> </a> 
 <h4 align="center">
 :man_pilot: Executive Officer at <a href="https://www.cbic.gov.in/"> <b>CBIC</b> </a> by Profession :man_pilot: <br>
 👨‍💻 Blogger/Coder/Graphics Designer by Passion 👨‍💻 <br> 
